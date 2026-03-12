@@ -15,7 +15,7 @@ A full pipeline to turn Bilibili subtitles into high-quality learning notes (wit
 ## 🔧 技术实现
 
 ### 核心工具
-- **BBDown**: B站视频下载器（用于下载字幕）
+- **BBDown**: B站视频下载器（用于下载字幕和视频）
 - **FFmpeg**: 视频处理工具（用于截图）
 - **Notion API**: 直接使用API创建页面、上传文件和嵌入内容
 
