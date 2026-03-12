@@ -38,11 +38,11 @@ bilibili-cc-to-notion/
 ├── INTEGRATION_SUMMARY.md      # 集成总结
 ├── FINAL_SUMMARY.md            # 最终总结
 ├── scripts/
-│   ├── download_bilibili_cc.py       # 字幕下载工具
-│   ├── screenshot_tool.py            # 视频截图工具
-│   ├── upload_file_to_notion.py      # Notion文件上传工具
-│   ├── create_notion_notes_with_images.py  # 支持图片上传的Notion笔记创建
-│   └── bilibili_to_notion_workflow.py # 完整工作流程脚本
+   ├── download_bilibili_cc.py       # 字幕下载工具
+   ├── screenshot_tool.py            # 视频截图工具
+   ├── upload_file_to_notion.py      # Notion文件上传工具
+   ├── create_notion_notes_with_images.py  # 支持图片上传的Notion笔记创建
+   └── bilibili_to_notion_workflow.py # 完整工作流程脚本
 
 ```
 
