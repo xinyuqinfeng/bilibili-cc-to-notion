@@ -53,6 +53,7 @@ bilibili-cc-to-notion/
 ```
 
 ## 🛠️ 安装和配置
+###首先拉取本仓库放到对应的skill文件路径，然后按照以下依赖及配置：
 
 ### 1. 下载BBDown
 ```bash
