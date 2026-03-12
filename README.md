@@ -28,7 +28,7 @@ upload_file_to_notion 上传图片 → create_notion_notes_with_images 创建 No
 
 **核心特点 / Key change**：字幕由ai学习并生成“学习笔记”，而非固定规则脚本，灵活性高。
 
-### 笔记生成效果
+### 笔记生成效果🖊
 <img width="762" height="828" alt="image" src="https://github.com/user-attachments/assets/39564b6c-8944-4a19-af2b-6f7e99fa17bd" />
 <img width="898" height="516" alt="image" src="https://github.com/user-attachments/assets/f6d9d5ba-6bbe-4be1-8c8e-afc8cbbecafd" />
 
