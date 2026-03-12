@@ -31,7 +31,7 @@ upload_file_to_notion 上传图片 → create_notion_notes_with_images 创建 No
 ### 笔记生成效果
 <img width="762" height="828" alt="image" src="https://github.com/user-attachments/assets/39564b6c-8944-4a19-af2b-6f7e99fa17bd" />
 <img width="898" height="516" alt="image" src="https://github.com/user-attachments/assets/f6d9d5ba-6bbe-4be1-8c8e-afc8cbbecafd" />
-感谢郝老师的精彩课程，老师B站主页[点击访问](https://space.bilibili.com/504156404?spm_id_from=333.788.upinfo.head.click)，如有侵权请联系我删除，笔记效果仅供学习交流，本skill仅为探索提升学习效率的方式，不可代替系统性学习。
+感谢郝老师的精彩课程，老师B站主页[点击访问](https://space.bilibili.com/504156404?spm_id_from=333.788.upinfo.head.click),如有侵权请联系我删除，笔记效果仅供学习交流，本skill仅为探索提升学习效率的方式，不可代替系统性学习。
 
 ## 📁 文件结构
 
