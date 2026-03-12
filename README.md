@@ -9,7 +9,7 @@ Key steps: BBDown (`--skip-ai false`, login for HD) → model builds notes → s
 
 ## ✅ 概述 / Overview
 
-一个从 Bilibili 字幕生成高质量学习笔记（含截图）并发布到 Notion 的完整技能。
+一个从 Bilibili 字幕生成高质量学习笔记（含自动视频重点截图）并发布到 Notion 的完整技能。
 A full pipeline to turn Bilibili subtitles into high-quality learning notes (with screenshots) in Notion.
 
 ## 🔧 技术实现
