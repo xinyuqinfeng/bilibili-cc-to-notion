@@ -26,7 +26,7 @@ A full pipeline to turn Bilibili subtitles into high-quality learning notes (wit
 upload_file_to_notion 上传图片 → create_notion_notes_with_images 创建 Notion 笔记 → 返回链接
 ```
 
-**核心特点 / Key change**：字幕由大模型生成“学习笔记”，而非固定规则脚本。
+**核心特点 / Key change**：字幕由ai学习并生成“学习笔记”，而非固定规则脚本，灵活性高。
 
 ### 笔记生成效果
 <img width="762" height="828" alt="image" src="https://github.com/user-attachments/assets/39564b6c-8944-4a19-af2b-6f7e99fa17bd" />
