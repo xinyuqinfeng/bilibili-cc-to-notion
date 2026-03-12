@@ -1,0 +1,35 @@
+{
+  "skill_name": "bilibili-cc-to-notion",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "帮我把这个B站视频做成学习笔记：https://www.bilibili.com/video/BV1H5xyevE7z",
+      "expected_output": "模型应该调用download_bilibili_cc工具下载字幕，然后调用process_subtitles处理内容，最后调用create_notion_notes创建Notion页面，并返回成功消息和页面链接",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "我有一个B站视频BV1T54y1m7dQ，想提取字幕并整理成Notion学习笔记，数据库ID是abc123",
+      "expected_output": "模型应该识别BV号，调用相应工具完成字幕下载、内容处理和Notion笔记创建，并使用提供的数据库ID",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "这个视频的字幕怎么下载？BV1KJ411W7dY",
+      "expected_output": "模型应该解释如何下载字幕，可能调用download_bilibili_cc工具，或者提供下载方法说明",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "帮我下载B站视频CC字幕，视频链接是https://www.bilibili.com/video/BV1ex411c7mW",
+      "expected_output": "模型应该调用download_bilibili_cc工具下载字幕，并返回字幕文件路径和视频标题",
+      "files": []
+    },
+    {
+      "id": 5,
+      "prompt": "这个视频讲什么内容？BV1xyevE7z",
+      "expected_output": "模型应该调用工具下载字幕并分析内容，提供视频概要，但不一定需要创建Notion笔记",
+      "files": []
+    }
+  ]
+}
