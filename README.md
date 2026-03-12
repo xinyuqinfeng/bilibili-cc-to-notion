@@ -43,9 +43,7 @@ bilibili-cc-to-notion/
 │   ├── upload_file_to_notion.py      # Notion文件上传工具
 │   ├── create_notion_notes_with_images.py  # 支持图片上传的Notion笔记创建
 │   └── bilibili_to_notion_workflow.py # 完整工作流程脚本
-├── evals/
-│   └── evals.json              # 测试用例
-└── eval_viewer.html            # 评估查看器
+
 ```
 
 ## 🛠️ 安装和配置
